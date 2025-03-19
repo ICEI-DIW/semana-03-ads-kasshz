@@ -8,10 +8,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Lucas Vinicius de Castro Oliveira
+- Matricula: 896406
+- Proposta de projeto escolhida: Notícia.
+- Breve descrição sobre seu projeto: Uma homepage como vários tipos de notícias.
 
 
 ## Print do esboço criada
